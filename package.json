@@ -1,5 +1,5 @@
 {
-  "name": "phonegap-plugin-push",
+  "name": "phonegap-plugin-push-bdg",
   "description": "Register and receive push notifications.",
   "types": "./types/index.d.ts",
   "version": "1.11.1",
